@@ -1,0 +1,501 @@
+LCC no.,Name,SEX,genotype,Age,Smoking,Type,No. of Beedi's/ciagratte daily,Years smoked,Pack years,Pack Yrs 0_1
+1,Suresh Kumar,M,w,45,Y,Beedi,14-Jan,25,18.75,0
+2,Suresh Kumar,M,H,39,Y,Beedi,30,23,34.5,1
+3,Jaswant Singh,M,W,38,Y,Beedi,30,25,37.5,1
+4,Kastoori lal,M,H,42,Y,Beedi,20,24,24,1
+5,Jagtar Singh,M,W,69,Y,Beedi,20,45,45,1
+6,Raj Kumar,M,M,47,Y,Beedi,14-Jan,13,9.75,0
+7,Suresh Kumar,M,w,58,Y,Beedi,20,40,40,1
+8,Amar Ram,M,w,75,Y,Beedi,5,40,10,0
+9,Ram Chander,M,M,50,Y,Beedi,20,35,35,1
+10,Ram Dhari,M,W,40,Y,Beedi,12,24,14.4,0
+11,Rajinder,M,W,62,Y,Beedi,20,40,40,1
+12,Jaswinder Kaur,F,w,59,Y,Beedi,30,34,51,1
+13,Jank Singh,M,H,70,Y,Beedi,28,34,47.6,1
+14,Karan Singh,M,W,43,Y,Beedi,5,21,5.25,0
+15,Sukhwinder Singh,M,w,49,Y,Beedi,17,27,22.95,1
+16,Gurnam Singh,M,M,62,Y,Beedi,9,25,11.25,0
+17,Kashm iri Lal,M,w,50,Y,Beedi,15,12,9,0
+18,Bhupinder Singh,M,H,45,Y,Beedi,7,30,10.5,0
+19,Baljit,M,W,55,Y,Beedi and Cigarette,20,14,14,0
+20,Satpal,M,w,56,Y,Beedi,40,22,44,1
+21,Lakhbir,M,w,41,Y,Beedi,20,21,21,1
+22,Jarnail,M,w,63,Y,Beedi,20,48,48,1
+23,Pooran Ram,M,H,65,Y,Beedi,20,50,50,1
+24,Baldev Ram,M,w,60,Y,Beedi,7-Jan,40,16,0
+25,Hans Raj,M,w,40,Y,Beedi,14-Jan,20,15,0
+26,Shishpal,M,H,45,Y,Beedi,20,20,20,1
+27,Darshan,M,H,53,Y,Beedi,2,34,3.4,0
+28,Joginder Singh,M,w,67,Y,Beedi,13,20,13,0
+29,Gurvinder Singh,M,w,60,Y,Beedi,30,14,21,1
+30,Bant Ram,M,w,75,Y,Beedi,26,33,42.9,1
+31,Dyal Singh,M,w,74,Y,Beedi,20,27,27,1
+32,Rohtaj,M,w,63,Y,Beedi,40 (before) 4to5 (now),17,34,1
+33,Shero,M,W,70,Y,Beedi,15,25,18.75,0
+34,Poola,M,w,54,Y,Beedi,25,35,43.75,1
+35,Mohinder Singh,M,w,65,Y,Beedi,12,14,8.4,0
+36,Shaank Singh,M,w,55,Y,Beedi,24,33,39.6,1
+37,Harbans Singh,M,w,60,Y,Beedi,13,27,17.55,0
+38,Tarpan Lal,M,H,60,Y,Beedi,11,17,9.35,0
+39,Bhajan,M,H,68,Y,Beedi,6,33,9.9,0
+40,Jinda Ram,M,H,40,Y,Beedi,30,10,15,0
+41,Mohd. Shavez,M,w,75,Y,Beedi,10,23,11.5,0
+42,Mr. Shivam,M,M,56,Y,Hookha,4 tpd,18,4.5,0
+43,Shiv Kumar,M,W,59,Y,Cigarette,15,34,25.5,1
+44,Ravindra,M,w,75,Y,Beedi,20,40,40,1
+45,Mr. Ajay,M,H,58,Y,Beedi/Cig/Tobacco,15/20,40,30,1
+46,Chaman Lal,M,H,77,Y,Beedi/Tobacco/Gutka,20,30,30,1
+47,Rajpal,M,W,60,Y,Beedi/Tob./Hookha,25,19,23.75,1
+48,Sonu,M,W,58,Y,Cig./Tob.,20,27,27,1
+49,Palla,M,W,55,Y,Beedi/Gutka,20,15,15,0
+50,Mehsar,M,H,75,Y,Cigarette,20,27,27,1
+51,Mohammad Yosuf,M,W,65,Y,Beedi/Hooka,30,32,48,1
+52,Vansh,M,w,42,Y,Cig./Gutka/Tob.,20,2,2,0
+53,Pradeep,M,w,56,Y,Cig./Tob.,15,10,7.5,0
+54,Tarpan Singh,M,H,56,Y,Beedi,20,35,35,1
+55,Labh,M,w,45,Y,Beedi,20,22,22,1
+56,Imran Khan,M,H,48,Y,Beedi,10-Jan,25,13.75,0
+57,Arjan Singh,M,W,45,Y,Beedi,8,60,24,1
+58,Jeeta Ram,M,H,70,Y,Beedi,20,50,50,1
+59,amir,M,H,56,Y,beedi,12,25,15,0
+60,sachin,M,H,65,Y,Beedi,20,10,10,0
+61,Ajeeth,M,w,71,Y,beedi,20,32,32,1
+62,Abhay,M,H,63,Y,Beedi,25,12,15,0
+63,Anand,M,W,52,Y,beedi,7,49,17.15,0
+64,amrit,M,W,46,Y,Beedi,9,31,13.95,0
+65,Bipin,M,w,59,Y,beedi,8,27,10.8,0
+66,Chandan,M,H,51,Y,Beedi,11,20,11,0
+67,Brijesh,M,w,52,Y,beedi,16,25,20,1
+68,Baldev,M,W,76,Y,Beedi,19,12,11.4,0
+69,Dayaram,M,w,59,Y,beedi,8,15,6,0
+70,Shriram,M,H,64,Y,Beedi,21,40,42,1
+71,Dorati (Deputy),M,H,37,Y,beedi,10,20,10,0
+72,Dev,M,H,56,Y,Beedi,12,27,16.2,0
+73,Dilip,M,H,60,Y,beedi,22,26,28.6,1
+74,Dinesh,M,H,53,Y,Beedi,9,23,10.35,0
+75,Ram,M,H,55,Y,beedi,24,26,31.2,1
+76,Satish,M,W,57,Y,Beedi,13,33,21.45,1
+77,Dipak,M,w,58,Y,beedi,18,23,20.7,1
+78,Ganesh,M,W,58,Y,Beedi,25,34,42.5,1
+79,Gautam,M,M,59,Y,beedi,22,6,6.6,0
+80,Darshan,M,H,62,Y,Beedi,17,16,13.6,0
+81,Gopal,M,H,58,Y,beedi,12,33,19.8,0
+82,Gobind,M,w,75,Y,Beedi,23,29,33.35,1
+83,Hari,M,M,76,Y,beedi,15,9,6.75,0
+84,Hariram,M,W,59,Y,Beedi,24,32,38.4,1
+85,Harinder,M,H,82,Y,beedi,24,5,6,0
+86,Harish,M,w,77,Y,Beedi,14,8,5.6,0
+87,Indra,M,H,61,Y,beedi,20,8,8,0
+88,Ajit,M,W,80,Y,Beedi,22,7,7.7,0
+89,Bala,M,H,79,Y,beedi,18,34,30.6,1
+90,sujit,M,W,80,Y,Beedi,12,24,14.4,0
+91,Basu,M,W,60,Y,beedi,5,21,5.25,0
+92,Amar,M,H,69,Y,Beedi,22,32,35.2,1
+93,lakshmi,M,H,81,Y,beedi,17,5,4.25,0
+94,Lakshmichand,M,W,71,Y,Beedi,22,23,25.3,1
+95,Satpal,M,W,82,Y,beedi,13,32,20.8,1
+96,Saimuddin,M,H,80,Y,Beedi,19,18,17.1,0
+97,Deshbandhu,M,w,57,Y,beedi,9,17,7.65,0
+98,Sewa Ram,M,H,63,Y,Beedi,24,7,8.4,0
+99,TP Sharma,M,H,80,Y,beedi,9,22,9.9,0
+100,Amit,M,W,82,Y,Beedi,18,27,24.3,1
+101,sarjan,M,W,68,Y,beedi,11,33,18.15,0
+102,Bharat,M,H,66,Y,Beedi,10,26,13,0
+103,Narinder,M,H,75,Y,beedi,22,29,31.9,1
+104,Anant,M,H,58,Y,Beedi,6,29,8.7,0
+105,Chatar Singh,M,W,74,Y,beedi,8,21,8.4,0
+106,Khursheed,M,W,63,Y,Beedi,21,31,32.55,1
+107,Anil,M,W,55,Y,beedi,25,15,18.75,0
+108,Piara Ji,M,M,52,Y,Beedi,23,30,34.5,1
+109,Pawan Kumar,M,H,49,Y,beedi,13,29,18.85,0
+110,Raj Kumar,M,W,52,Y,Beedi,17,30,25.5,1
+111,Braham,M,W,55,Y,beedi,21,20,21,1
+112,Captain,M,W,65,Y,Beedi,8,10,4,0
+113,Anupam,M,w,60,Y,beedi,21,10,10.5,0
+114,Damodar,M,H,75,Y,Beedi,13,20,13,0
+115,Chiranjeevi,M,W,54,Y,beedi,5,24,6,0
+116,Anuj,M,W,62,Y,Beedi,7,12,4.2,0
+117,Shiv,M,M,70,Y,beedi,18,5,4.5,0
+118,Sc Gupta ,M,w,59,Y,Beedi,22,9,9.9,0
+119,Afjal ,M,W,70,Y,beedi,12,12,7.2,0
+120,Darshan,M,H,59,Y,Beedi,21,10,10.5,0
+121,Dr BM Simran  ,M,W,59,Y,beedi,21,20,21,1
+122,Bijoy,M,H,58,Y,Beedi,22,22,24.2,1
+123,Ronky ,M,W,60,Y,beedi,25,12,15,0
+124,Ganesha,M,H,70,Y,Beedi,14,15,10.5,0
+125,Anupam,M,H,57,Y,beedi,24,15,18,0
+126,Dr MS ,M,H,60,Y,Beedi,23,6,6.9,0
+127,Sameer,M,W,55,Y,beedi,25,10,12.5,0
+128,Gobinda,M,H,69,Y,Beedi,14,15,10.5,0
+129,Arvind,M,H,62,Y,beedi,6,10,3,0
+130,Subash,M,H,55,Y,Beedi,9,15,6.75,0
+131,Mohd. Imran,M,M,55,Y,beedi,20,20,20,1
+132,Amir Hassan,M,W,63,Y,Beedi,16,7,5.6,0
+133,Tony,M,w,59,Y,beedi,21,10,10.5,0
+134,Arjun,M,H,55,Y,Beedi,6,12,3.6,0
+135,Sohamveer ,M,H,63,Y,beedi,20,12,12,0
+136,Sohan,M,w,62,Y,Beedi,16,10,8,0
+137,Arun,M,H,57,Y,beedi,9,23,10.35,0
+138,Ravinder Gord,M,W,68,Y,Beedi,24,35,42,1
+139,Aseem,M,M,64,Y,beedi,7,5,1.75,0
+140,Suresh Kumar,M,w,70,Y,Beedi,16,16,12.8,0
+141,Ashok,M,w,54,Y,beedi,12,24,14.4,0
+142,Rakesh,M,w,55,Y,Beedi,16,9,7.2,0
+143,Akil Ahmad,M,M,60,Y,beedi,14,29,20.3,1
+144,Bahadur,M,M,59,Y,Beedi,10,34,17,0
+145,Hanuman,M,M,65,Y,beedi,15,31,23.25,1
+146,Harsha,M,M,68,Y,Beedi,12,5,3,0
+147,Chand Prakash,M,M,80,Y,beedi,21,17,17.85,0
+148,Inderjit,M,M,75,Y,Beedi,7,33,11.55,0
+149,Gulzar,M,M,56,Y,beedi,22,27,29.7,1
+150,SP Goyal ,M,M,59,Y,Beedi,15,7,5.25,0
+151,Jagjit,M,w,64,Y,beedi,21,25,26.25,1
+152,Raja Ram ,M,w,63,Y,Beedi,20,30,30,1
+153,Jasvinder,M,W,58,Y,beedi,14,12,8.4,0
+154,Raghu,M,H,60,Y,Beedi,10,25,12.5,0
+155,Harender,M,W,61,Y,beedi,8,34,13.6,0
+156,Uday,M,W,56,Y,Beedi,9,28,12.6,0
+157,Girish,M,w,82,Y,beedi,7,26,9.1,0
+158,Shingara,M,M,78,Y,Beedi,15,33,24.75,1
+159,Gurmail Ji,M,w,58,Y,beedi,11,34,18.7,0
+160,Prem,M,W,63,Y,Beedi,14,35,24.5,1
+161,Pali Ram,M,w,64,Y,beedi,8,8,3.2,0
+162,Udham singh,M,w,69,Y,Beedi,24,31,37.2,1
+163,Mohd. Safeek,M,w,56,Y,beedi,20,26,26,1
+164,Ishan,M,M,58,Y,Beedi,6,28,8.4,0
+165,Satpal,M,M,60,Y,beedi,18,22,19.8,0
+166,Ishant,M,M,60,Y,Beedi,24,13,15.6,0
+167,Ajmal,M,w,65,Y,beedi,20,6,6,0
+168,Sumit,M,M,61,Y,Beedi,9,18,8.1,0
+169,Amir,M,W,64,Y,beedi,10,34,17,0
+170,Subodh,M,H,63,Y,Beedi,13,20,13,0
+171,Raseed Ahmad,M,W,68,Y,beedi,20,23,23,1
+172,Manish,M,H,70,Y,Beedi,16,12,9.6,0
+173,Farakat,M,H,60,Y,beedi,20,7,7,0
+174,Tarun,M,W,59,Y,Beedi,5,34,8.5,0
+175,Pritam,M,W,58,Y,beedi,13,29,18.85,0
+176,Ishwan,M,W,70,Y,Beedi,24,23,27.6,1
+177,Rashid,M,W,53,Y,beedi,7,11,3.85,0
+178,Kherudeen,M,H,75,Y,Beedi,23,10,11.5,0
+179,Mahaveer,M,M,63,Y,beedi,15,15,11.25,0
+180,Shobharam,M,M,55,Y,Beedi,12,27,16.2,0
+181,Ramesh,M,w,64,Y,beedi,20,25,25,1
+182,SP Mittal,M,w,62,Y,Beedi,19,26,24.7,1
+183,Salekh chand,M,W,65,Y,beedi,13,5,3.25,0
+184,Jyotish,M,W,66,Y,Beedi,18,21,18.9,0
+185,Jay,M,W,78,Y,beedi,6,20,6,0
+186,INdra,M,W,62,Y,Beedi,15,26,19.5,0
+187,Kailash,M,W,63,Y,beedi,5,27,6.75,0
+188,Johar,M,H,59,Y,Beedi,18,22,19.8,0
+189,Kalidas,M,M,65,Y,beedi,14,35,24.5,1
+190,Kallu,M,M,80,Y,Beedi,15,8,6,0
+191,Sonu,M,w,67,Y,beedi,10,11,5.5,0
+192,Kapil,M,w,82,Y,Beedi,10,11,5.5,0
+193,Sundar,M,w,65,Y,beedi,6,31,9.3,0
+194,Monu,M,w,70,Y,Beedi,5,31,7.75,0
+195,Brij Lal,M,w,78,Y,beedi,24,22,26.4,1
+196,Lal,M,W,72,Y,Beedi,10,22,11,0
+197,Kamal,M,H,56,Y,beedi,11,11,6.05,0
+198,Lalit,M,H,74,Y,Beedi,14,15,10.5,0
+199,Shaheed,M,H,55,Y,beedi,10,15,7.5,0
+200,Virat,M,W,58,Y,Beedi,22,31,34.1,1
+201,Dharam,M,H,61,Y,beedi,21,12,12.6,0
+202,Sanjay,M,H,56,Y,Beedi,21,14,14.7,0
+203,Rohit,M,w,63,Y,beedi,23,7,8.05,0
+204,Laxman,M,w,78,Y,Beedi,20,21,21,1
+205,Sooraj,M,H,77,Y,beedi,17,28,23.8,1
+206,Mukesh,M,w,65,Y,Beedi,22,27,29.7,1
+207,Anil Kumar,M,M,58,Y,beedi,10,33,16.5,0
+208,Anupam rathode,M,M,59,Y,Beedi,14,20,14,0
+209,Bhupinder,M,H,69,Y,beedi,9,10,4.5,0
+210,Mohan Lal,M,W,70,Y,Beedi,16,20,16,0
+211,Sabbir,M,H,56,Y,beedi,11,18,9.9,0
+212,Lochan,M,W,65,Y,Beedi,24,7,8.4,0
+213,Mahvir,M,W,73,Y,beedi,7,18,6.3,0
+214,Mohinder,M,W,66,Y,Beedi,25,6,7.5,0
+215,Sumit kumar,M,H,75,Y,beedi,21,12,12.6,0
+216,Sachin bajaj,M,H,68,Y,Beedi,12,11,6.6,0
+217,Rajbeer,M,H,55,Y,beedi,11,21,11.55,0
+218,Ayush singh,M,W,58,Y,Beedi,9,11,4.95,0
+219,Kunal,M,W,65,Y,beedi,6,8,2.4,0
+220,Brijpal,M,H,60,Y,Beedi,25,16,20,1
+221,Vijay Kumar,M,H,75,Y,beedi,22,28,30.8,1
+222,Kumar,M,w,62,Y,Beedi,10,23,11.5,0
+223,Rohit sardhana,M,W,63,Y,beedi,19,25,23.75,1
+224,Balu,M,H,58,Y,Beedi,7,14,4.9,0
+225,Shyam,M,H,71,Y,beedi,19,27,25.65,1
+226,Kishor,M,H,65,Y,Beedi,15,10,7.5,0
+227,Parmod Kumar,M,M,68,Y,beedi,17,35,29.75,1
+228,Abdul,M,H,61,Y,Beedi,6,5,1.5,0
+229,prateek,M,H,55,Y,beedi,8,22,8.8,0
+230,Kishan,M,W,63,Y,Beedi,9,35,15.75,0
+231,Keshav,M,w,59,Y,beedi,16,10,8,0
+232,Dyal,M,w,60,Y,Beedi,10,16,8,0
+233,Abhay,M,W,66,Y,beedi,9,8,3.6,0
+234,Kabir,M,H,58,Y,Beedi,12,35,21,1
+235,Ranjan,M,H,68,Y,beedi,25,32,40,1
+236,Abdul gani,M,H,70,Y,Beedi,21,8,8.4,0
+237,Madhav,M,W,66,Y,beedi,5,16,4,0
+238,Dhani,M,W,65,Y,Beedi,21,17,17.85,0
+239,Atma,M,w,72,Y,beedi,18,30,27,1
+240,Mohit,M,H,74,Y,Beedi,19,12,11.4,0
+241,Abhimanyu,M,M,59,Y,beedi,9,28,12.6,0
+242,Vaibhav,M,M,60,Y,Beedi,19,27,25.65,1
+243,Karan,M,M,76,Y,beedi,16,14,11.2,0
+244,Adrash,M,W,61,Y,Beedi,15,18,13.5,0
+245,Rashi,M,H,65,Y,beedi,11,9,4.95,0
+246,Kamal singh,M,W,63,Y,Beedi,25,5,6.25,0
+247,Amar,M,W,70,Y,beedi,10,26,13,0
+248,Ajaipal,M,w,65,Y,Beedi,15,27,20.25,1
+249,Komal,M,H,55,Y,beedi,25,23,28.75,1
+250,Badri,M,H,59,Y,Beedi,24,34,40.8,1
+251,Amarjeet,M,M,68,Y,beedi,5,9,2.25,0
+252,Sanjju,M,M,58,Y,Beedi,14,10,7,0
+253,Charan,M,w,70,Y,beedi,21,25,26.25,1
+254,Amrit,M,w,59,Y,Beedi,21,29,30.45,1
+255,Ajay rathi,M,w,60,Y,beedi,18,26,23.4,1
+256,davendra,M,H,65,Y,Beedi,9,19,8.55,0
+257,Bahadur,M,W,68,Y,beedi,20,6,6,0
+258,Devilal,M,W,75,Y,Beedi,9,35,15.75,0
+259,Anil,M,w,59,Y,beedi,25,11,13.75,0
+260,Dharam,M,M,61,Y,Beedi,17,20,17,0
+261,Bajrang,M,M,62,Y,beedi,15,34,25.5,1
+262,Arun,M,W,63,Y,Beedi,15,7,5.25,0
+263,Dharampal,M,M,64,Y,beedi,11,26,14.3,0
+264,baljit,M,H,65,Y,Beedi,25,34,42.5,1
+265,Gurdas,M,M,66,Y,beedi,18,34,30.6,1
+266,Balbir,M,M,67,Y,Beedi,19,17,16.15,0
+267,Gurmeet,M,W,68,Y,beedi,24,21,25.2,1
+268,Bansi,M,W,69,Y,Beedi,25,8,10,0
+269,Harbir,M,W,70,Y,beedi,22,35,38.5,1
+270,Gurpreet,M,w,71,Y,Beedi,7,34,11.9,0
+271,Jai,M,H,72,Y,beedi,5,31,7.75,0
+272,Hardas,M,w,73,Y,Beedi,22,11,12.1,0
+273,Jagjit,M,W,74,Y,beedi,8,25,10,0
+274,Kanaiya,M,H,75,Y,Beedi,11,22,12.1,0
+275,Gautam,M,W,76,Y,beedi,22,35,38.5,1
+276,Dina nath,M,w,68,Y,Beedi,10,31,15.5,0
+277,Kalyan,M,w,67,Y,beedi,12,7,4.2,0
+278,Gul mohd,M,H,80,Y,Beedi,8,28,11.2,0
+279,Farookh,M,W,72,Y,beedi,6,7,2.1,0
+280,Kanwal,M,w,69,Y,Beedi,16,31,24.8,1
+281,Sanjay sawant,M,W,71,Y,beedi,20,21,21,1
+282,Jamna,M,M,66,Y,Beedi,7,22,7.7,0
+283,Raghu,M,W,61,Y,beedi,25,22,27.5,1
+284,Pavan singh,M,w,70,Y,Beedi,12,11,6.6,0
+285,Dhirender mishra,M,W,61,Y,beedi,20,33,33,1
+286,Subir,M,W,81,Y,Beedi,9,28,12.6,0
+287,Jawahar,M,w,74,Y,beedi,13,9,5.85,0
+288,Raghav,M,w,65,Y,Beedi,10,35,17.5,0
+289,Pawan,M,w,78,Y,beedi,9,34,15.3,0
+290,Kailash,M,w,66,Y,Beedi,19,25,23.75,1
+291,Jeevan,M,M,60,Y,beedi,16,26,20.8,1
+292,Simarjit  Arora,M,M,75,Y,Beedi,10,5,2.5,0
+293,Kamal chaudhary,M,w,60,Y,beedi,22,30,33,1
+294,Lal Bihari,M,w,78,Y,Beedi,10,15,7.5,0
+295,Simranjit Singh,M,w,62,Y,beedi,18,33,29.7,1
+296,Pawan N agarwal,M,w,70,Y,Beedi,21,11,11.55,0
+297,Rajesh Prajapati,M,w,66,Y,beedi,14,19,13.3,0
+298,Achchardeep Verma,M,w,62,Y,Beedi,5,11,2.75,0
+299,Inderjeet Singh,M,w,71,Y,beedi,20,19,19,0
+300,Manpreet ,M,w,61,Y,Beedi,15,15,11.25,0
+301,Rahul Singh,M,w,69,Y,beedi,22,10,11,0
+302,Vardaan Bajaj,M,w,81,Y,Beedi,15,29,21.75,1
+303,Rahul Kawatra,M,w,75,Y,beedi,18,25,22.5,1
+304,Harsimran Singh,M,w,81,Y,Beedi,15,23,17.25,0
+305,Jal Singh,M,w,64,Y,beedi,20,12,12,0
+306,Himanshu Verma,M,w,82,Y,Beedi,9,30,13.5,0
+307,Brungi Praneeth,M,w,78,Y,beedi,10,28,14,0
+308,Aahan Garg,M,w,59,Y,Beedi,17,8,6.8,0
+309,Sunny Bajaj,M,w,81,Y,beedi,22,21,23.1,1
+310,Ashok Gulia,M,w,57,Y,Beedi,23,21,24.15,1
+311,Anmol Bajwa,M,w,72,Y,beedi,15,16,12,0
+312,Gaurav,M,w,65,Y,Beedi,6,9,2.7,0
+313,Amanpreet ,M,w,76,Y,beedi,24,18,21.6,1
+314,Ambrish Verma,M,w,56,Y,Beedi,20,14,14,0
+315,Amit Sharma,M,w,68,Y,beedi,13,24,15.6,0
+316,Arif Shah,M,w,61,Y,Beedi,21,13,13.65,0
+317,Arun Shadhu,M,w,56,Y,beedi,13,15,9.75,0
+318,Atul Chikara,M,w,57,Y,Beedi,9,21,9.45,0
+319,Brijesh Singh,M,w,67,Y,beedi,7,16,5.6,0
+320,Gajendra Singh,M,w,70,Y,Beedi,22,31,34.1,1
+321,Deep Kamboj,M,H,74,Y,beedi,16,15,12,0
+322,Kunein Raja,M,w,58,Y,Beedi,5,35,8.75,0
+323,Manglok Yadav,M,H,63,Y,beedi,25,27,33.75,1
+324,Mritunjajay Singh,M,H,72,Y,Beedi,5,23,5.75,0
+325,Narinder Singh Bhatia,M,H,59,Y,beedi,8,13,5.2,0
+326,PooniaVerma,M,H,81,Y,Beedi,8,30,12,0
+327,Rahat Sharma,M,H,70,Y,beedi,20,21,21,1
+328,Ravish Sharma,M,w,63,Y,Beedi,19,33,31.35,1
+329,Rishavh Mishra,M,M,80,Y,beedi,6,29,8.7,0
+330,Rohan Bhatt,M,w,78,Y,Beedi,11,35,19.25,0
+331,Sardesh Chaurashia,M,w,80,Y,beedi,7,7,2.45,0
+332,Subhash sharma,M,W,71,Y,Beedi,18,16,14.4,0
+333,Vijay Bardhan,M,w,78,Y,beedi,7,21,7.35,0
+334,Vikash Thakur,M,H,75,Y,Beedi,21,6,6.3,0
+335,Virendar Nagar,M,H,62,Y,beedi,11,21,11.55,0
+336,Ranjana Sharma,M,H,73,Y,Beedi,21,34,35.7,1
+337,Snehasish Dhra,M,w,69,Y,beedi,16,22,17.6,0
+338,Muqeem Ahmad,M,w,82,Y,Beedi,24,21,25.2,1
+339,Kamal Giri,M,w,66,Y,beedi,21,17,17.85,0
+340,Sandeep saini,M,w,81,Y,Beedi,13,14,9.1,0
+341,Sundeep Mehtab,M,H,80,Y,beedi,25,12,15,0
+342,Gaurav Battar,M,M,83,Y,Beedi,21,35,36.75,1
+343,Vivek rawat,M,H,56,Y,beedi,18,15,13.5,0
+344,Manish Jha,M,H,58,Y,Beedi,25,35,43.75,1
+345,Pushpendra Yadav,M,H,74,Y,beedi,12,31,18.6,0
+346,Ronak Pundir,M,H,61,Y,Beedi,18,5,4.5,0
+347,Rakesh Thakur,M,W,54,Y,beedi,15,21,15.75,0
+348,Sukesh,M,W,54,Y,Beedi,18,20,18,0
+349,Karthik,M,w,72,Y,beedi,6,18,5.4,0
+350,Utkarsh singhai,M,W,55,Y,Beedi,13,22,14.3,0
+351,Sumit meena,M,W,82,Y,beedi,7,16,5.6,0
+352,Mukul ve,M,H,63,Y,Beedi,22,15,16.5,0
+353,Pranay ,M,H,81,Y,beedi,9,34,15.3,0
+354,Ritesh ,M,H,66,Y,Beedi,25,15,18.75,0
+355,Atul,M,H,80,Y,beedi,25,10,12.5,0
+356,Sandip Sharma,M,W,55,Y,Beedi,23,17,19.55,0
+357,Ranjith,M,W,80,Y,beedi,12,6,3.6,0
+358,Deepak Gupta,M,W,59,Y,Beedi,15,26,19.5,0
+359,Mani raj,M,W,58,Y,beedi,23,10,11.5,0
+360,Vikram sharma,M,H,57,Y,Beedi,8,11,4.4,0
+361,Sriram raj,M,H,77,Y,beedi,17,15,12.75,0
+362,Anshu,M,W,75,Y,Beedi,25,19,23.75,1
+363,Abhishek singh,M,H,56,Y,beedi,16,34,27.2,1
+364,James ,M,W,55,Y,Beedi,28,26,36.4,1
+365,Rohitash,M,W,60,Y,beedi,29,10,14.5,0
+366,Baboo lal,M,M,50,Y,Beedi,13,21,13.65,0
+367,Hareesh pal,M,W,50,Y,beedi,7,23,8.05,0
+368,Krishna ,M,H,80,Y,Beedi,5,25,6.25,0
+369,Ankush,M,H,68,Y,beedi,15,20,15,0
+370,Sumit kamal,M,W,80,Y,Beedi,8,7,2.8,0
+371,Lakshya ,M,W,59,Y,beedi,30,10,15,0
+372,Keshav singh,M,H,81,Y,Beedi,28,13,18.2,0
+373,Rahul jain,M,H,83,Y,beedi,5,22,5.5,0
+374,Momin afroj,M,H,69,Y,Beedi,17,30,25.5,1
+375,Mohd slalamat,M,H,81,Y,beedi,9,30,13.5,0
+376,Sanjay bisht,M,w,80,Y,Beedi,12,24,14.4,0
+377,krishan sharma,M,w,55,Y,beedi,11,20,11,0
+378,sonu sharma,M,w,81,Y,Beedi,8,26,10.4,0
+379,Nirmal sinha,M,w,78,Y,beedi,25,6,7.5,0
+380,Om singh,M,w,56,Y,Beedi,23,21,24.15,1
+381,Anokh singh,M,M,48,Y,Beedi,3,15,2.25,0
+382,Zaheer,M,H,42,Y,Beedi,4,20,4,0
+383,Mashud Ali,M,H,42,Y,Beedi,15,15,11.25,0
+384,Joginder,M,W,53,Y,Beedi,10,22,11,0
+385,Mohit,M,W,63,Y,Beedi,3,30,4.5,0
+386,Yudhvir,M,w,53,Y,Beedi,5,15,3.75,0
+387,Manish,M,w,78,Y,Beedi,8,40,16,0
+388,Afijudin,M,w,47,Y,Beedi,9,21,9.45,0
+389,saifuddin,M,M,76,Y,Beedi,15,30,22.5,1
+390,Sham lal,M,M,68,Y,Beedi,10,25,12.5,0
+391,abbas,M,h,44,Y,Beedi,8,19,7.6,0
+392,Amar Singh,M,H,58,Y,Beedi,5,12,3,0
+393,sachin,M,M,71,Y,Beedi,3,32,4.8,0
+394,Amar Singh thakur,M,H,35,Y,Beedi,2,10,1,0
+395,sumit,M,H,51,Y,Beedi,6,12,3.6,0
+396,Devi Lal,M,H,74,Y,Beedi,9,28,12.6,0
+397,jitender,M,h,35,Y,Beedi,11,10,5.5,0
+398,mahaveer,M,H,66,Y,Beedi,12,26,15.6,0
+399,Shesh Ram,M,W,75,Y,Beedi,20,30,30,1
+400,kesho ram,M,M,74,Y,Beedi,4,28,5.6,0
+401,satinder,M,h,35,Y,Beedi,6,10,3,0
+402,Barka Ram,M,M,52,Y,Beedi,2,12,1.2,0
+403,jaipal,M,h,76,Y,Beedi,8,25,10,0
+404,Harbans Singh,M,h,53,Y,Beedi,4,18,3.6,0
+405,mintu,M,h,75,Y,Beedi,1,29,1.45,0
+406,Sadhu Ram,M,h,65,Y,Beedi,5,30,7.5,0
+407,manoj,M,h,69,Y,Beedi,11,24,13.2,0
+408,gopal singh,M,h,67,Y,Beedi,16,26,20.8,1
+409,Sewa Ram,M,h,57,Y,Beedi,20,12,12,0
+410,jagdish,M,h,33,Y,Beedi,5,5,1.25,0
+411,jeet,M,h,74,Y,Beedi,6,23,6.9,0
+412,Kehar singh,M,h,65,Y,Beedi,4,26,5.2,0
+413,jasvinder,F,h,59,Y,Beedi,3,N,2.25,0
+414,hari ram,M,h,36,Y,Beedi,8,9,3.6,0
+415,Mannchand,M,h,63,Y,Beedi,10,17,8.5,0
+416,Savitri,F,h,68,Y,Beedi,5,N,3.25,0
+417,anil,M,h,76,Y,Beedi,11,36,19.8,0
+418,hari,M,h,33,Y,Beedi,6,6,1.8,0
+419,anuj,M,h,58,Y,Beedi,8,20,8,0
+420,Rajvinder,F,h,53,Y,Beedi,5,16,4,0
+421,ganesh,M,h,49,Y,Beedi,10,10,5,0
+422,arjun,M,h,53,Y,Beedi,4,20,4,0
+423,dilip,M,h,67,Y,Beedi,6,26,7.8,0
+424,arun,M,h,51,Y,Beedi,8,21,8.4,0
+425,darshan,F,h,45,Y,Beedi,13,10,6.5,0
+426,chaad,M,h,53,Y,Beedi,18,15,13.5,0
+427,ashok,M,h,51,Y,Beedi,6,19,5.7,0
+428,chandan,M,h,36,Y,Beedi,14,5,3.5,0
+429,alok,M,h,40,Y,Beedi,5,9,2.25,0
+430,ashok singh,M,h,41,Y,Beedi,20,8,8,0
+431,raju,M,h,75,Y,Beedi,2,28,2.8,0
+432,Premo,F,h,40,Y,Beedi,15,10,7.5,0
+433,manu,F,h,42,Y,Beedi,16,7,5.6,0
+434,kapil,M,h,59,Y,Beedi,10,19,9.5,0
+435,Kalyan,M,h,74,Y,Beedi,5,20,5,0
+436,Madhav,M,h,70,Y,Beedi,8,23,9.2,0
+437,krishna,M,h,54,Y,Beedi,9,15,6.75,0
+438,Lal,M,h,54,Y,Beedi,10,16,8,0
+439,kishen,M,h,62,Y,Beedi,5,19,4.75,0
+440,laxman,M,h,31,Y,Beedi,6,5,1.5,0
+441,Manju,F,h,38,Y,Beedi,8,9,3.6,0
+442,naveen,M,h,53,Y,Beedi,2,12,1.2,0
+443,mohan,M,h,59,Y,Beedi,12,13,7.8,0
+444,mukesh,M,h,38,Y,Beedi,11,19,10.45,0
+445,prabhu,M,h,77,Y,Beedi,8,28,11.2,0
+446,pradeep,M,h,47,Y,Beedi,1,15,0.75,0
+447,neelam,M,h,60,Y,Beedi,6,30,9,0
+448,nisha,M,h,56,Y,Beedi,8,25,10,0
+449,Rampal singh,M,h,37,Y,Beedi,2,10,1,0
+450,juleen,F,h,48,N,N,N,N,0,0
+451,BaldevKaur,F,h,55,N,N,N,N,0,0
+452,Harwinder Kaur,F,h,50,N,N,N,N,0,0
+453,Karnail kaur,F,h,45,N,N,N,N,0,0
+454,Amritpal Kaur,F,h,32,N,N,N,N,0,0
+455,Labh Kaur,F,h,40,N,N,N,N,0,0
+456,Kulwinder,M,h,52,N,N,N,N,0,0
+457,Karanveer,M,h,32,N,N,N,N,0,0
+458,Kulwinder Singh,M,h,62,N,N,N,N,0,0
+459,Binda Devi,F,h,40,N,N,N,N,0,0
+460,Kamaljit Kaur,F,h,40,N,N,N,N,0,0
+461,Prabhjot Singh,M,h,34,N,N,N,N,0,0
+462,Rajat Verma,M,h,35,N,N,N,N,0,0
+463,Ajinder,F,h,42,N,N,N,N,0,0
+464,Amnajot,F,h,56,N,N,N,N,0,0
+465,amanrooop,F,h,52,N,N,N,N,0,0
+466,Aas,F,h,55,N,N,N,N,0,0
+467,Bishanpreet,F,h,51,N,N,N,N,0,0
+468,chuni,F,h,49,N,N,N,N,0,0
+469,Gurmeet,F,h,51,N,N,N,N,0,0
+470,gurkiran,F,h,49,N,N,N,N,0,0
+471,Gurbachan,M,h,50,N,N,N,N,0,0
+472,Gyan Chand,M,h,50,N,N,N,N,0,0
+473,Sunita,F,h,46,N,N,N,N,0,0
+474,Alisha,F,h,44,N,N,N,N,0,0
+475,Krishna,F,h,60,N,N,N,N,0,0
+476,Raj Rani,F,h,58,N,N,N,N,0,0
+477,Sandeep,M,h,45,N,N,N,N,0,0
+478,Shineler/Shinder,F,h,68,N,N,N,N,0,0
+479,Simranjeet,F,h,55,N,N,N,N,0,0
+480,Lal Singh,M,h,53,N,N,N,N,0,0
+481,Rampal,M,h,50,N,N,N,N,0,0
+482,Pawan Kumar,M,h,45,N,N,N,N,0,0
+483,Sukhwinder Kaur,F,h,49,N,N,N,N,0,0
+484,Suni,F,h,59,N,N,N,N,0,0
+485,Gurmeet Kaur,F,h,55,N,N,N,N,0,0
+486,Surinder,F,h,60,N,N,N,N,0,0
+487,Jagdev,M,h,42,N,N,N,N,0,0
+488,Batish Kumar,M,h,48,N,N,N,N,0,0
+489,Rani Devi,F,h,50,N,N,N,N,0,0
+490,Sonajeet,F,h,32,N,N,N,N,0,0
+491,Shrhjlan,M,h,40,N,N,N,N,0,0
+492,Malka Kaur,F,h,50,N,N,N,N,0,0
+493,Satya,F,h,60,N,N,N,N,0,0
+494,Sukhchain,F,h,52,N,N,N,N,0,0
+495,Karnail kaur,F,h,60,N,N,N,N,0,0
+496,Ashok kumar,F,h,60,N,N,N,N,0,0
+497,Savitri,F,h,58,N,N,N,N,0,0
+498,Phoolo,F,h,57,N,N,N,N,0,0
+499,Gomti,F,h,46,N,N,N,N,0,0
+500,Sooro devi,F,h,45,N,N,N,N,0,0
